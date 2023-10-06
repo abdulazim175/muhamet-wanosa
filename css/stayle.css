@@ -60,7 +60,13 @@ body {
   text-align: center;
   letter-spacing: -3px; 
 }
+@media (max-width: 450px){
 
+  .special-heading{
+    font-size: 40px;
+    font-weight: 230;
+  }
+}
 @media (max-width: 380px){
 
   .special-heading{
